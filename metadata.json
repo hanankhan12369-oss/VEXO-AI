@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS AI Voice Assistant",
+  "description": "VEXO AI - A sleek black and neon-green intelligent chatbot powered by Gemini, capable of answering every question comprehensively in English, Roman Urdu, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
